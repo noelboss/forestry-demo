@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/welcome.md
+- _posts/2019-05-23-welcome.md
